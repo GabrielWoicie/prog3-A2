@@ -1,9 +1,12 @@
 # Projeto de Programação III – Sistema Web com CodeIgniter - Unoesc Chapecó
 
 ## Desenvolvedores -
-Gabriel Woiciechowski
-Maicon Antonio Calegari Filho
-Leonardo Felipe Zani
+Gabriel Woiciechowski;
+
+Maicon Antonio Calegari Filho;
+
+Leonardo Felipe Zani;
+
 
 ## 1. Descrição das Duas Ideias Cogitadas
 
